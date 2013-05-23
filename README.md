@@ -9,5 +9,5 @@ Email: six.heyaxiang@gmail.com
 
 ## 学习书籍
 
-  - 《go web编程》[astaxie](https://github.com/astaxie)(编著)
-  - 《Go语言编程》[许式伟 ](https://github.com/qiniu/gobook)(编著)
+  - 《Go Web编程》[astaxie](https://github.com/astaxie)(编著)
+  - 《Go 语言编程》[许式伟 ](https://github.com/qiniu/gobook)(编著)
